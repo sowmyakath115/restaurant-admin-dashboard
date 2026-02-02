@@ -67,7 +67,7 @@ MONGODB_URI=
 Deployment Links
 
 Frontend (Netlify):
-(https://your-frontend.netlify.app](https://sowmyacodes.netlify.app/)
+https://sowmyacodes.netlify.app/
 
 Backend (Render):
  https://restaurant-admin-dashboard-tfg4.onrender.com/

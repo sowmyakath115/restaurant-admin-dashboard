@@ -58,17 +58,16 @@ restaurant-admin-dashboard/
 Environment Variables
 Backend (.env)
 PORT=5000
-MONGODB_URI=your_mongodb_atlas_url
+MONGODB_URI=
 
-Frontend (.env)
-VITE_API_URL=https://your-backend.onrender.com/api
+
 
 
 
 Deployment Links
 
 Frontend (Netlify):
- https://your-frontend.netlify.app
+(https://your-frontend.netlify.app](https://sowmyacodes.netlify.app/)
 
 Backend (Render):
- https://your-backend.onrender.com
+ https://restaurant-admin-dashboard-tfg4.onrender.com/
